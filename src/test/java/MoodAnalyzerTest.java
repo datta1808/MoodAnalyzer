@@ -1,7 +1,6 @@
 import com.bridgelabz.MoodAnalyzerMain;
 import org.junit.Test;
 
-
 import static org.junit.Assert.*;
 
 public class MoodAnalyzerTest {
