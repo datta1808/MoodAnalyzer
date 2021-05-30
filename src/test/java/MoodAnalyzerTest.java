@@ -2,7 +2,6 @@ import com.bridgelabz.MoodAnalysisException;
 import com.bridgelabz.MoodAnalyzerMain;
 import org.junit.Test;
 
-
 import org.junit.Assert;
 
 public class MoodAnalyzerTest {
